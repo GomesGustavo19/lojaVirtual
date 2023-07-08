@@ -8,8 +8,8 @@ Projeto de estudo!
 Este e um projeto que ira desenvolver as funcionalidade mínimas para uma loja virtual esta funcionando. 
 
 Ferramentas:
-Java
-Maven
+Java,
+Maven,
 TDD
 
 Framework:
