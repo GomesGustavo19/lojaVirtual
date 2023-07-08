@@ -5,7 +5,7 @@ sou um jovem entusiasta do mundo da programação, estudo java com spring +- 1 a
 
 Projeto de estudo!
 
-Este e um projeto que ira desenvolver as funcionalidade mínimas para uma loja virtual esta funcionando. 
+Este é um projeto que irá desenvolver as funcionalidade mínimas para uma loja virtual estar funcionando. 
 
 Ferramentas:
 Java,
