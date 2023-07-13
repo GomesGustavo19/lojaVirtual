@@ -1,4 +1,5 @@
 # lojaVirtual
+<<<<<<< HEAD
 
 Olá! sou o Gustavo,
 sou um jovem entusiasta do mundo da programação, estudo java com spring +- 1 ano e 6 meses 
